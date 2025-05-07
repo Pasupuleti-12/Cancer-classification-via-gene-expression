@@ -1,7 +1,7 @@
 🔬 Cancer Classification via Gene Expression
-🚀 Leveraging Machine Learning for Precision Oncology
+-> Leveraging Machine Learning for Precision Oncology
 This project harnesses machine learning techniques to classify cancer types based on gene expression data, offering a data-driven approach to understanding disease progression. By training a Random Forest Classifier, we can identify genetic patterns that influence cancer classification and improve predictive accuracy.
-✨ Key Features:
+-> Key Features:
 - Advanced Preprocessing – Cleans and structures genomic data for high-accuracy predictions.
 - Robust Machine Learning Model – Implements a Random Forest algorithm for reliable classification.
 - Evaluation Metrics – Generates classification reports and confusion matrices for performance assessment.
